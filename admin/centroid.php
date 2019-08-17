@@ -1,2 +1,2 @@
-<?php $datx = array(7,27,9,); 
-	$daty = array( 187000, 102063, 258500,); ?>
+<?php $datx = array(25,75,25,); 
+	$daty = array(75,25,25,); ?>

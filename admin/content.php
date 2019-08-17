@@ -1,7 +1,7 @@
 <?php
 include "../config/session_manager.php";
 if ($_GET[module]=='home'){
-echo "<div style='width:100%; text-align:center;font-weight:bold;padding:7px; background:#e3e3e3; margin-bottom:20px;'>Selamat datang Di Aplikasi data Mining - Metode Clustering Algoritma K-Means Kelulusan Mahasiswa </div>
+echo "<div style='width:100%; text-align:center;font-weight:bold;padding:7px; background:#e3e3e3; margin-bottom:20px;'>Selamat datang Di Aplikasi data Mining - Metode Clustering Algoritma K-Means Kerusakan Hardware </div>
 	<p>Data mining adalah suatu metode pengolahan data untuk menemukan pola
 yang tersembunyi dari data tersebut. Hasil dari pengolahan data dengan metode data
 mining ini dapat digunakan untuk mengambil keputusan di masa depan. Data mining
